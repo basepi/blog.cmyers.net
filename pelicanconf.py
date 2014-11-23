@@ -15,7 +15,7 @@ EXTRA_PATH_METADATA = {
 }
 
 # chunk theme
-THEME = 'themes/pelican-theme-irfan'
+THEME = 'themes/burrito'
 SITESUBTITLE = ''
 FOOTER_TEXT = 'Powered by <a href="http://getpelican.com">Pelican</a>'
 DISPLAY_CATEGORIES_ON_MENU = False
