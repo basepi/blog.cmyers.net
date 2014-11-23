@@ -15,7 +15,7 @@ EXTRA_PATH_METADATA = {
 }
 
 THEME = 'themes/pelican-octopress-theme'
-SITESUBTITLE = ''
+SITESUBTITLE = 'Leading to a rapid loss of interest since 2011'
 FOOTER_TEXT = 'Powered by <a href="http://getpelican.com">Pelican</a>'
 DISPLAY_CATEGORIES_ON_MENU = False
 SINGLE_AUTHOR = True
@@ -41,9 +41,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (
+MENUITEMS = (
         ('RSS', 'http://blog.cmyers.net/rss.xml'),
         ('Twitter', 'http://twitter.com/basepi'),
+        ('Tech Blog', 'http://blog.basepi.net'),
 )
 
 TWITTER_USERNAME = 'basepi'
