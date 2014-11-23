@@ -1,4 +1,4 @@
-Title: "Another Beginning"
+Title: Another Beginning
 Date: 2012-01-08 18:00
 Category: Blog
 

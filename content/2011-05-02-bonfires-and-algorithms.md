@@ -1,4 +1,4 @@
-Title: "Bonfires and Algorithms"
+Title: Bonfires and Algorithms
 Date: 2011-05-02 18:00
 Category: Blog
 

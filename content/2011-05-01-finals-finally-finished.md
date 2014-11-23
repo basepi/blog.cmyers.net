@@ -1,4 +1,4 @@
-Title: "Finals are Finally Finished!"
+Title: Finals are Finally Finished!
 Date: 2011-05-01 18:00
 Category: Blog
 

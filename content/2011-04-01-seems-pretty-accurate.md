@@ -1,4 +1,4 @@
-Title: "Seems Pretty Accurate..."
+Title: Seems Pretty Accurate...
 Date: 2011-04-01 18:00
 Category: Blog
 

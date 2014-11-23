@@ -1,4 +1,4 @@
-Title: "Summer is Coming to a Close"
+Title: Summer is Coming to a Close
 Date: 2011-08-01 18:00
 Category: Blog
 

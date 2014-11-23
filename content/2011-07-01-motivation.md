@@ -1,4 +1,4 @@
-Title: "Motivation"
+Title: Motivation
 Date: 2011-07-01 18:00
 Category: Blog
 

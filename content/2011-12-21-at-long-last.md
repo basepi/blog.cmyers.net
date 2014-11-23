@@ -1,4 +1,4 @@
-Title: "At Long Last..."
+Title: At Long Last...
 Date: 2011-12-21 18:00
 Category: Blog
 

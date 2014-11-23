@@ -1,4 +1,4 @@
-Title: "The Show Must Go On!"
+Title: The Show Must Go On!
 Date: 2011-04-02 18:00
 Category: Blog
 

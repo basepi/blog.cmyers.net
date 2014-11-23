@@ -1,4 +1,4 @@
-Title: "New Habits"
+Title: New Habits
 Date: 2012-01-03 18:00
 Category: Blog
 
