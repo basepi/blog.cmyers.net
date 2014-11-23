@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Colton Myers'
 SITENAME = u'Me, Myself, and Colton'
-SITEURL = ''
+SITEURL = 'http://localhost:8000'
 
 # Change to False if there are caching issues
 LOAD_CONTENT_CACHE = True
@@ -14,8 +14,7 @@ EXTRA_PATH_METADATA = {
     'extra/favicon.png': {'path': 'favicon.png'}
 }
 
-# chunk theme
-THEME = 'themes/burrito'
+THEME = 'themes/pelican-octopress-theme'
 SITESUBTITLE = ''
 FOOTER_TEXT = 'Powered by <a href="http://getpelican.com">Pelican</a>'
 DISPLAY_CATEGORIES_ON_MENU = False
@@ -48,6 +47,7 @@ LINKS = (
 )
 
 TWITTER_USERNAME = 'basepi'
+TWITTER_USER = 'basepi'
 
 # Social widget
 #SOCIAL = (('You can add links in your config file', '#'),
@@ -57,3 +57,6 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+PLUGIN_PATHS = ['plugins']
+PLUGINS = ['assets']
